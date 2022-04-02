@@ -1,0 +1,8 @@
+src
+tools
+node_modules
+tsconfig.json
+package-lock.json
+test.ts
+.gitignore
+.editorconfig
